@@ -61,3 +61,8 @@ cmd/plugin/release/LICENSE
 tmp/
 test/junitreports/
 tests/__snapshot__
+
+# Raiku-local Claude Code context (do not commit; fork tracks upstream)
+.ai/
+.claude/
+CLAUDE.md
