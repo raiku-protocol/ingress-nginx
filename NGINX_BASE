@@ -1,1 +1,1 @@
-europe-west2-docker.pkg.dev/raiku-telemetry/ingress-nginx-controller/nginx:v2.2.9-raiku-1@<digest>
+europe-west2-docker.pkg.dev/raiku-telemetry/infrastructure/ingress-nginx-controller/nginx:v2.2.9-raiku-1@<DIGEST>

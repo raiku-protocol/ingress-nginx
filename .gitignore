@@ -66,3 +66,6 @@ tests/__snapshot__
 .ai/
 .claude/
 CLAUDE.md
+
+# packaged helm chart output
+dist/
